@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YUMMLY</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="popular">Popular</string>
+    <string name="searchrecipe">Search</string>
+    <string name="feedback">Feedback</string>
+    <string name="search" />
+
+</resources>
